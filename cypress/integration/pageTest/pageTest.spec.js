@@ -7,10 +7,9 @@ import { Objects } from "../../pageAtributes/objects"
 
 describe('Log In testing',()=>{
     const page = new Objects()
-    
-    
+        
     beforeEach(()=>{
-        Objects.navigate()
+        page.navigate()
     })
     
     })
