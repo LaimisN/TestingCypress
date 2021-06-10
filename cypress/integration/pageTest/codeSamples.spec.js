@@ -14,6 +14,7 @@ describe('Log In testing',()=>{
         cy.viewport(1280,720)
 
     })    
+ //asset
 
     it.only('wehave correct page title',()=>{
         //cy.viewport('samsung-note9')
